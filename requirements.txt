@@ -1,0 +1,7 @@
+# The prototype core runs on the Python standard library only (Python 3.9+).
+# Optional, for notebooks and extensions - uncomment what you need:
+# jupyter
+# matplotlib
+# pandas
+# numpy
+# scikit-learn
